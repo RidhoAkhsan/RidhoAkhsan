@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ridho Akhsan Maulana</h1>
 <h3 align="center">I'm Junior Software Engineer</h3>
-![image](https://github.com/RidhoAkhsan/RidhoAkhsan/assets/110365675/4ee5e00b-d949-409b-9d3e-7221454f923e)
+<img align="right" alt="Coding" width"400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ridhoakhsan&label=Profile%20views&color=0e75b6&style=flat" alt="ridhoakhsan" /> </p>
 
