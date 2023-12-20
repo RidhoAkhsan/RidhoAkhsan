@@ -1,4 +1,4 @@
-![image](https://github.com/RidhoAkhsan/RidhoAkhsan/assets/110365675/f9ef1cf1-cfcb-4ede-a960-b21f7edc6773)
+![image](https://1.bp.blogspot.com/-gu5z4t7QXkw/Xd8bEk6gVxI/AAAAAAAANhQ/jXlVfYNQbOw3Uj4zsxT3fqT5jdrZP4FFQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Ridho Akhsan Maulana</h1>
 <h3 align="center">I'm Junior Software Engineer</h3>
 <img align="right" alt="Coding" width"400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
