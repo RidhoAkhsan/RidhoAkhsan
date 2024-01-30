@@ -3,7 +3,10 @@
 <h3 align="center">I'm Junior Software Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ridhoakhsan&label=Profile%20views&color=0e75b6&style=flat" alt="ridhoakhsan" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=ridhoakhsan&label=Profile%20views&color=0e75b6&style=flat" alt="ridhoakhsan" /> 
+  <a href="https://wakatime.com/@1c91a63c-2af2-4dd6-b92d-97988e8ae2e6"><img src="https://wakatime.com/badge/user/1c91a63c-2af2-4dd6-b92d-97988e8ae2e6.svg"/></a>
+</p>
 
 - 🌱 I’m currently learning **Linux**
 
