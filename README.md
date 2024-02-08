@@ -29,10 +29,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ridhoakhsan" alt="ridhoakhsan" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ridhoakhsan&show_icons=true&locale=en&layout=compact" alt="ridhoakhsan" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ridhoakhsan&show_icons=true&locale=en" alt="ridhoakhsan" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ridhoakhsan&" alt="ridhoakhsan" /></p>
-
-<p>&nbsp;<a href="https://wakatime.com/@Iyxan23"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=RidhoAkhsan&show_icons=true&layout=compact&bg_color=00000000&text_color=808080&hide_border=true&range=all_time" alt="Ridho Akshan" /> </a></p>
+<p align="center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ridhoakhsan&show_icons=true&locale=en&layout=compact" alt="ridhoakhsan" />
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ridhoakhsan&show_icons=true&locale=en" alt="ridhoakhsan" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ridhoakhsan&" alt="ridhoakhsan" />
+  <a href="https://wakatime.com/@Iyxan23"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=RidhoAkhsan&show_icons=true&layout=compact&bg_color=00000000&text_color=808080&hide_border=true&range=all_time" alt="Ridho Akshan" />
+</p>
