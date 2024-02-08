@@ -34,3 +34,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ridhoakhsan&show_icons=true&locale=en" alt="ridhoakhsan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ridhoakhsan&" alt="ridhoakhsan" /></p>
+
+<p><a href="https://wakatime.com/@Iyxan23"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=RidhoAkhsan&show_icons=true&layout=compact&bg_color=00000000&text_color=808080&hide_border=true&range=all_time" alt="Ridho Akshan" /> </a></p>
