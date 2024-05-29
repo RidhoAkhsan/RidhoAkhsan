@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Linux**
 
-- 💬 Ask me about **Android, Flutter**
+- 💬 Ask me about **Web and Mobile**
 
 - 📫 How to reach me **akhsanridho23@gmail.com**
 
