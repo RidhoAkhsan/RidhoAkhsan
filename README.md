@@ -11,11 +11,11 @@
 
 - 🌱 I’m currently learning **Linux**
 
-- 💬 Ask me about **Web and Mobile**
+- 💬 Ask me about **Web**
 
 - 📫 How to reach me **akhsanridho23@gmail.com**
 
-- ⚡ Fun fact **I'm Sundanese**
+- ⚡ Fun fact **I'm currently play war thunder**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
