@@ -1,7 +1,8 @@
-![image](https://1.bp.blogspot.com/-gu5z4t7QXkw/Xd8bEk6gVxI/AAAAAAAANhQ/jXlVfYNQbOw3Uj4zsxT3fqT5jdrZP4FFQCLcBGAsYHQ/s1600/2000_600px.gif)
+<img align="right" alt="Coding" width="100%" height="300"  src="https://goldeneagle.ai/media/media/uploads/docker.gif">
+
 <h1 align="center">Hi, Hello 👋, I'm Ridho Akhsan</h1>
 <h3 align="center">I'm Junior Software Engineer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=ridhoakhsan&label=Profile%20views&color=0e75b6&style=flat" alt="ridhoakhsan" />
