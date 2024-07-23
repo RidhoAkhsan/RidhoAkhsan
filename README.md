@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/ridho akhsan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ridho akhsan" height="30" width="40" /></a>
 <a href="https://instagram.com/ridhoakhsan.idn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ridhoakhsan.idn" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ridho akhsan maulana-rpl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ridho akhsan maulana-rpl" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCZn9buoUtsOGdv_LuNf3IKA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ridho akhsan maulana-rpl" height="30" width="40" /></a>
 <a href="https://discord.gg/ramu.id" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ramu.id" height="30" width="40" /></a>
 </p>
 
