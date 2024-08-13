@@ -1,7 +1,7 @@
 <img align="right" alt="Coding" width="100%" height="300"  src="https://goldeneagle.ai/media/media/uploads/docker.gif">
 
 <h1 align="center">Hi, Hello 👋, I'm Ridho Akhsan</h1>
-<h3 align="center">I'm Junior Software Engineer</h3>
+<h3 align="center">I'm Junior Web Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 
 <p align="left"> 
